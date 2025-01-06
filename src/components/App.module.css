@@ -1,0 +1,13 @@
+.cal-button{
+    margin: 3px;
+    width: 30.50% !important;
+}
+.cal-display{
+    font-size: 15px;
+    text-align: right;
+    padding: 5px;
+    margin-bottom: 20px;
+    border: 1px solid #5C636A;
+    outline: none;
+    border-radius: 3px;
+}
